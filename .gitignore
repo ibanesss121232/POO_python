@@ -1,0 +1,5 @@
+#Ignore file compilation
+*.o
+*.exe
+
+#Ingore path compilation
